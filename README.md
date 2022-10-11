@@ -23,4 +23,4 @@ createdb -O Your_Username Your_Database
 - `Note:` You must change your username to the username you provided before and change your database to your new database name use any name you like also.
 
 
-## Feel free to contact me via Telegram: [KryticBit0 on Telegram ](https://telegram.com/justasus)
+## Feel free to contact me via Telegram: [KryticBit0 on Telegram ](https://t.me/justasus)
